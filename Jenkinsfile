@@ -5,7 +5,7 @@ node {
 	stage('Test') {
 		echo "Test"
 	}
-	stage('Deploy') {
+	stage('1Deploy') {
 		echo "Deploy"
 	}
 }
